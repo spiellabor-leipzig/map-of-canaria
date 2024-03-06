@@ -8,22 +8,8 @@
 	"usedAddons": [
 		{
 			"type": "plugin",
-			"id": "Mouse",
-			"name": "Maus",
-			"author": "Scirra",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
 			"id": "Particles",
 			"name": "Partikel",
-			"author": "Scirra",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
-			"id": "Sprite",
-			"name": "Sprite",
 			"author": "Scirra",
 			"bundled": false
 		},
@@ -33,48 +19,31 @@
 			"name": "Text",
 			"author": "Scirra",
 			"bundled": false
-		},
-		{
-			"type": "plugin",
-			"id": "TiledBg",
-			"name": "Gekachelter Hintergrund",
-			"author": "Scirra",
-			"bundled": false
 		}
 	],
 	"uniqueId": "nmvs5hxowf7",
 	"objectTypes": {
 		"items": [
 			"Title",
-			"Particle",
-			"CharacterImg",
-			"MaleBtn",
-			"FemaleBtn",
-			"Maus",
-			"GekachelterHintergrund",
-			"TxtBtnBackground"
+			"Partikel"
 		],
 		"subfolders": []
 	},
 	"autosaveData": null,
 	"containers": [],
 	"families": {
-		"items": [
-			"TextButtons"
-		],
+		"items": [],
 		"subfolders": []
 	},
 	"layouts": {
 		"items": [
-			"Title",
-			"Character_Editor"
+			"Title"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Title_Events",
-			"Character_Editor_Events"
+			"Title_Events"
 		],
 		"subfolders": []
 	},
@@ -219,7 +188,7 @@
 		"scriptsType": "module",
 		"framerateMode": "vsync",
 		"compositingMode": "standard",
-		"sampling": "nearest",
+		"sampling": "trilinear",
 		"downscaling": "medium",
 		"renderingMode": "auto",
 		"anisotropicFiltering": "auto",
