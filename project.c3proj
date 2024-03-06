@@ -40,6 +40,13 @@
 			"name": "Gekachelter Hintergrund",
 			"author": "Scirra",
 			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "EightDir",
+			"name": "8 Richtungen",
+			"author": "Scirra",
+			"bundled": false
 		}
 	],
 	"uniqueId": "nmvs5hxowf7",
@@ -52,7 +59,9 @@
 			"FemaleBtn",
 			"Maus",
 			"GekachelterHintergrund",
-			"TxtBtnBackground"
+			"TxtBtnBackground",
+			"GreenBackground",
+			"Character"
 		],
 		"subfolders": []
 	},
@@ -67,14 +76,16 @@
 	"layouts": {
 		"items": [
 			"Title",
-			"Character_Editor"
+			"Character_Editor",
+			"Worldmap"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
 			"Title_Events",
-			"Character_Editor_Events"
+			"Character_Editor_Events",
+			"Worldmap_Events"
 		],
 		"subfolders": []
 	},
