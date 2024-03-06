@@ -52,14 +52,14 @@
 					}
 				},
 				{
-					"type": "Partikel",
+					"type": "Particle",
 					"properties": {
 						"rate": 50,
 						"spray-cone": 60,
 						"type": "continuous-spray",
 						"object": -1,
 						"initially-visible": true,
-						"live-preview": true,
+						"live-preview": false,
 						"speed": 200,
 						"size": 100,
 						"opacity": 100,

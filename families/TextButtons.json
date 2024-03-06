@@ -1,0 +1,12 @@
+{
+	"name": "TextButtons",
+	"plugin-id": "Text",
+	"sid": 702473992133316,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"members": [
+		"FemaleBtn",
+		"MaleBtn"
+	]
+}

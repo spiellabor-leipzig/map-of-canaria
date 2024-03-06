@@ -1,7 +1,7 @@
 {
-	"name": "Partikel",
-	"plugin-id": "Particles",
-	"sid": 472997752743970,
+	"name": "GekachelterHintergrund",
+	"plugin-id": "TiledBg",
+	"sid": 934426738939560,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -14,7 +14,7 @@
 		"originalSource": "",
 		"exportFormat": "lossless",
 		"exportQuality": 0.8,
-		"imageSpriteId": 7016029,
+		"imageSpriteId": 8645258,
 		"useCollisionPoly": true,
 		"tag": ""
 	}
