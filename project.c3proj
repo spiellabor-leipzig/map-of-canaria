@@ -61,7 +61,8 @@
 			"GekachelterHintergrund",
 			"TxtBtnBackground",
 			"GreenBackground",
-			"Character"
+			"Character",
+			"hintergrund"
 		],
 		"subfolders": []
 	},
@@ -77,7 +78,8 @@
 		"items": [
 			"Title",
 			"Character_Editor",
-			"Worldmap"
+			"Worldmap",
+			"world Map"
 		],
 		"subfolders": []
 	},
@@ -85,7 +87,8 @@
 		"items": [
 			"Title_Events",
 			"Character_Editor_Events",
-			"Worldmap_Events"
+			"Worldmap_Events",
+			"world map events"
 		],
 		"subfolders": []
 	},
